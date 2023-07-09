@@ -7,10 +7,7 @@
 
 ### Screenshots of application
 
-<img src="/img/home.jpg" alt="Home" title="Home Page">
-
-<img src="/img/2 .jpg" alt="Tree" title="Tree">
-
-<img src="/img/bicep.jpg" alt="bicep" title="Bicep Curls">
-
-<img src="/img/pose.jpg" alt="Tree pose" title="Pose">
+![1](https://github.com/Sudhanwaa/PosturePerfect/assets/92940618/962a8ee3-bbf8-417f-b02b-d018012d9d93)
+![2](https://github.com/Sudhanwaa/PosturePerfect/assets/92940618/047870b5-830c-4bf1-9650-f0065179b10e)
+![3](https://github.com/Sudhanwaa/PosturePerfect/assets/92940618/fea73035-da8e-40d4-bebe-5b0fb872d045)
+![4](https://github.com/Sudhanwaa/PosturePerfect/assets/92940618/63c456a5-606c-4f53-8ad7-8c2cbd304d27)
